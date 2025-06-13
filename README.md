@@ -1,6 +1,9 @@
 # -DeepSORT_YOLOV5n_Raspberry-pi-5_detact_cart-only-Ubuntu-
 
-
+pip install torch torchvision torchaudio
+pip install opencv-python
+pip install deep_sort_realtime
+pip install numpy
 
 # Tracking with YOLOv5n + DeepSORT in Ubuntu
 
